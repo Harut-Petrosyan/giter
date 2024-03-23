@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.Appi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
